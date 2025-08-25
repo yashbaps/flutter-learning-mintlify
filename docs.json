@@ -13,7 +13,8 @@
           {
             "group": "Sessions",
             "pages": [
-              "sessions/intro"
+              "sessions/intro",
+              "sessions/dart-basics-p2"
             ]
           }
         ],
