@@ -19,7 +19,8 @@
               "sessions/dart-basics-p4",
               "sessions/flutter-basics-p1",
               "sessions/state-management",
-              "sessions/architectures"
+              "sessions/architectures",
+              "sessions/bloc"
             ]
           }
         ],
