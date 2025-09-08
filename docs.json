@@ -21,7 +21,8 @@
               "sessions/state-management",
               "sessions/architectures",
               "sessions/bloc",
-              "sessions/flutter-app-p1"
+              "sessions/flutter-app-p1",
+              "sessions/flutter-app-p2"
             ]
           }
         ],
