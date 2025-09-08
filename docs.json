@@ -1,47 +1,43 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Flutter Learning Sessions",
-  "colors": {
-    "primary": "#1672a3",
-    "light": "#0785c9",
-    "dark": "#155b80"
-  },
-  "favicon": "/favicon.svg",
-  "navigation": {
-    "groups": [
-          {
+    "$schema": "https://mintlify.com/docs.json",
+    "theme": "mint",
+    "name": "Flutter Learning Sessions",
+    "colors": {
+        "primary": "#1672a3",
+        "light": "#0785c9",
+        "dark": "#155b80"
+    },
+    "favicon": "/favicon.svg",
+    "navigation": {
+        "groups": [{
             "group": "Sessions",
             "pages": [
-              "sessions/intro",
-              "sessions/dart-basics-p2",
-              "sessions/dart-basics-p3",
-              "sessions/dart-basics-p4",
-              "sessions/flutter-basics-p1",
-              "sessions/state-management",
-              "sessions/architectures",
-              "sessions/bloc",
-              "sessions/flutter-app-p1",
-              "sessions/flutter-app-p2"
+                "sessions/intro",
+                "sessions/dart-basics-p2",
+                "sessions/dart-basics-p3",
+                "sessions/dart-basics-p4",
+                "sessions/flutter-basics-p1",
+                "sessions/state-management",
+                "sessions/architectures",
+                "sessions/bloc",
+                "sessions/flutter-app-p1",
+                "sessions/flutter-app-p2"
             ]
-          }
-        ],
-    "global": {
-      "anchors": [
-      ]
+        }],
+        "global": {
+            "anchors": []
+        }
+    },
+    "logo": {
+        "light": "/logo/light.svg",
+        "dark": "/logo/dark.svg"
+    },
+    "navbar": {},
+    "contextual": {
+        "options": []
+    },
+    "appearance": {
+        "default": "light",
+        "strict": false
     }
-  },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
-  "navbar": {
-  },
-  "contextual": {
-    "options": [
-   ]
-  },"appearance": {
-  "default": "light",
-  "strict": false
-}
 }
